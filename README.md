@@ -1,6 +1,6 @@
 <h4 align="center"> Find me on the web. </h4>
 
-      [[LinkedIn](./images/linkedin-logo.png)](https://www.linkedin.com/in/your-profile-url)
+      
 
  
  
