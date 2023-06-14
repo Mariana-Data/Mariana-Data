@@ -25,7 +25,7 @@
 [![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Mariana-Data) 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Mariana-Data)
 
-
+##
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Mariana-Data&show_icons=true&theme=blue-green)]
 
